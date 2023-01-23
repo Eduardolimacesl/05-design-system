@@ -1,7 +1,7 @@
 # Components:
 Componentes que irão fazer parte do design Systema da Rocketseat:
 
-- [ ] Text
+- [x] Text
 - [ ] Heading  
 - [ ] Box  
 - [ ] Button

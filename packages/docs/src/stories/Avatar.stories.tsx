@@ -8,6 +8,19 @@ export default {
     src: 'https://github.com/eduardolimacesl.png',
     alt: 'Carlos Eduardo',
   },
+
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+    alt: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

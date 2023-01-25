@@ -1,0 +1,2 @@
+import{A as t}from"./index.0ed1aed3.js";import"./index.a10e3fc9.js";import"./iframe.2df6b229.js";import"./index.1d0d4431.js";import"./jsx-runtime.7e70094c.js";const e={title:"Data dusplay/Avatar",component:t,args:{src:"https://github.com/eduardolimacesl.png",alt:"Carlos Eduardo"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},i={},l={args:{src:void 0}},p=["Primary","WithFallback"];export{i as Primary,l as WithFallback,p as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.8e362b93.js.map

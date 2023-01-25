@@ -20,7 +20,7 @@ jobs:
       - run: npm ci
 
       - run: npm run build
-        env: TURBO_TOKEN: cAbvxBIGr86ZKuUKYOI82MMS
+        env: TURBO_TOKEN: XxYvIOhcrMNYJEFKAPCN58Ei
              TURBO_TEAM: carlos-lima
 
       - name: Deploy storybook
